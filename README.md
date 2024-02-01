@@ -1,5 +1,5 @@
 # 💫 About Me:
-## **A passionate Fullstack**
+## **A passionate Fullstack Developer**
 🔭 I’m currently working on a project in React.js and Node.js<br>👯 I’m looking to collaborate on projects preferably with full Stack Technologies<br>💬 Ask me about cricket and movies<br>
 
 
